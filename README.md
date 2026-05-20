@@ -69,3 +69,6 @@ auto_explain.log_nested_statements = on
 ## Лицензия
 
 MIT License
+
+## Ссылки на пубдикации
+https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg Инфостарт https://infostart.ru/1c/articles/2695752/
