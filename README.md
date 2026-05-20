@@ -71,5 +71,6 @@ auto_explain.log_nested_statements = on
 MIT License
 
 ## Ссылки на публикации
-<image src=https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg> [Инфостарт] (https://infostart.ru/1c/articles/2695752/)
-<image src=https://cdn.prod.website-files.com/65cb50148a423f63add18bc6/65cf2a9387a9c8216877c783_social%20h.png> [Хабр] (https://habr.com/ru/articles/1037504/)
+<image src=https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg>[Инфостарт](https://infostart.ru/1c/articles/2695752/)
+
+<image src=https://cdn.prod.website-files.com/65cb50148a423f63add18bc6/65cf2a9387a9c8216877c783_social%20h.png height="50">[Хабр](https://habr.com/ru/articles/1037504/)
